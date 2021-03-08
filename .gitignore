@@ -1,0 +1,4 @@
+*.sketch
+*.fig
+.DS_Store
+.prettierignore
