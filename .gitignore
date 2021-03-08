@@ -1,4 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+### vscode ###
+.vscode*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Design Files
 *.sketch
 *.fig
-.DS_Store
 .prettierignore
